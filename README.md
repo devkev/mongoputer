@@ -36,11 +36,11 @@ Examples
 
 * Gosper's gun:
 
-    [![asciicast of mongoputer-ca-2d-gospergun.js](gospergun.png)](https://asciinema.org/a/Je1CWZ3zQ7Gch0il2LabcuLGd)
+    [![asciicast of mongoputer-ca-2d-gospergun.js](gospergun.gif)](https://asciinema.org/a/Je1CWZ3zQ7Gch0il2LabcuLGd)
 
 * Acorn (small):
 
-    [![asciicast of mongoputer-ca-2d-acornsmall.js](acornsmall.png)](https://asciinema.org/a/jDgNWDMScsORNbS8WBf8cNoKj)
+    [![asciicast of mongoputer-ca-2d-acornsmall.js](acornsmall.gif)](https://asciinema.org/a/jDgNWDMScsORNbS8WBf8cNoKj)
 
 * Acorn (large):
 
